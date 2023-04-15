@@ -1,3 +1,4 @@
+#set of ascii images so if you lose a life it gets set to the next one.
 lives_visual_dict = {
         0: """
                 ___________
